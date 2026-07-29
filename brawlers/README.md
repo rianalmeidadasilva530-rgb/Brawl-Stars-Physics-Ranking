@@ -1,3 +1,11 @@
 # Brawlers
 
-This folder contains the calculations for each Brawl Stars brawler.
+Each brawler has an individual analysis.
+
+Every file includes:
+
+- Assumptions
+- Calculations
+- Results
+- Sources
+- Final conclusion
