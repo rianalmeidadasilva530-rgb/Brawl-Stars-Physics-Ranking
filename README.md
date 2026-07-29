@@ -2,76 +2,73 @@
 
 ## Overview
 
-This project aims to estimate the real-world physical capabilities of every Brawl Stars character using principles from physics and engineering.
+This project aims to determine how powerful every Brawl Stars brawler would be using real-world physics and engineering.
 
-Instead of relying only on in-game damage or health values, every character will be analyzed using measurable quantities such as:
+Instead of relying on in-game stats such as damage or health, every character will be analyzed through measurable physical quantities.
 
-* Force (N)
-* Energy (J)
-* Power (W)
-* Speed
-* Acceleration
-* Durability
-* Weapon recoil
-* Impact force
+Examples include:
+
+- Force (N)
+- Energy (J)
+- Power (W)
+- Speed
+- Acceleration
+- Durability
+- Momentum
+- Weapon recoil
+- Impact force
+
+Every calculation will be fully documented and open to community review.
+
+---
 
 ## Goal
 
-Create a transparent, reproducible, and community-reviewed ranking of every Brawl Stars character based on real-world physics.
+Create the first complete physics-based ranking of every Brawl Stars brawler.
 
-Every calculation will include:
+The project focuses on:
 
-* Assumptions
-* Mathematical derivations
-* Sources
-* Uncertainty estimates
-* Final conclusions
+- Realistic assumptions
+- Transparent calculations
+- Reproducible methods
+- Community collaboration
 
-## Planned Methodology
+---
 
-Each character will be analyzed independently.
-
-Typical analyses include:
-
-* Weapon recoil calculations
-* Kinetic and potential energy
-* Mechanical power
-* Sound-wave energy
-* Explosion energy
-* Structural resistance
-* Biomechanics
-* Momentum and impact forces
-
-Whenever exact values are unavailable, order-of-magnitude estimates and clearly stated assumptions will be used.
-
-## Project Structure
+## Repository Structure
 
 ```
-/docs
-    Methodology
-
-/brawlers
-    Colt
-    Frank
-    Poco
-    ...
-
-/data
-    Tables
-    References
-
-/results
-    Final ranking
+brawlers/
+calculations/
+data/
+docs/
+results/
+references/
 ```
+
+---
+
+## Progress
+
+| Category | Status |
+|----------|--------|
+| Methodology | 🟡 In Progress |
+| Colt | ⏳ |
+| Shelly | ⏳ |
+| Frank | ⏳ |
+| Poco | ⏳ |
+| Final Ranking | ⏳ |
+
+---
 
 ## Contributions
 
-Contributions are welcome.
+Suggestions, corrections and Pull Requests are welcome.
 
-If you have experience in physics, engineering, mathematics, biomechanics, or power scaling, feel free to open an Issue or submit a Pull Request.
+If you enjoy Physics, Engineering, Mathematics or Power Scaling, feel free to contribute.
 
-Constructive criticism and alternative calculation methods are always appreciated.
+---
 
 ## Disclaimer
 
-This is a fan-made research project and is not affiliated with, endorsed by, or sponsored by Supercell.
+This is a fan-made project and is not affiliated with Supercell.
