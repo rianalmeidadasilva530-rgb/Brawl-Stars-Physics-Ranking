@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/WeENse9" width="100%" alt="Brawl Stars Physics Project">
+  <img src="https://imgur.com/iFmXxbp"100%" alt="Brawl Stars Physics Project">
 </p>
 
 # Brawl Stars Physics Project
