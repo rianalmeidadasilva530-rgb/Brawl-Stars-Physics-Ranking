@@ -50,15 +50,14 @@ references/
 
 ## Progress
 
-| Category | Status |
-|----------|--------|
-| Methodology | 🟡 In Progress |
-| Colt | ⏳ |
-| Shelly | ⏳ |
-| Frank | ⏳ |
-| Poco | ⏳ |
-| Final Ranking | ⏳ |
+Methodology      ████████░░ 80%
 
+Colt             ⬜ Not Started
+Frank            ⬜ Not Started
+Poco             ⬜ Not Started
+
+Completed
+0 / 104
 ---
 
 ## Contributions
