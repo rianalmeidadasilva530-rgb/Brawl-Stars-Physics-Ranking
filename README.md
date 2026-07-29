@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://imgur.com/gallery/brawl-stars-physics-project-yTSn3hg#OXE7bD5" alt="Brawl Stars Physics Project">
+  <img src="https://i.imgur.com/OXE7bD5.png" width="100%" alt="Brawl Stars Physics Project">
 </p>
 
+# Brawl Stars Physics Project
 # Brawl Stars Physics Project
 
 ## Overview
