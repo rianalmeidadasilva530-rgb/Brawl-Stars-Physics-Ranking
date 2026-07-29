@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://imgur.com/a/WeENse9" width="100%" alt="Brawl Stars Physics Project">
+</p>
+
 # Brawl Stars Physics Project
 
 ## Overview
@@ -71,7 +75,3 @@ If you enjoy Physics, Engineering, Mathematics or Power Scaling, feel free to co
 ## Disclaimer
 
 This is a fan-made project and is not affiliated with Supercell.
-
-<p align="center">
-  <img src="https://imgur.com/a/WeENse9" width="100%" alt="Brawl Stars Physics Project">
-</p>
