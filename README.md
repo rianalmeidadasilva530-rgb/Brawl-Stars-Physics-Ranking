@@ -3,7 +3,6 @@
 </p>
 
 # Brawl Stars Physics Project
-# Brawl Stars Physics Project
 
 ## Overview
 
