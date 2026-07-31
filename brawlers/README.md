@@ -134,7 +134,7 @@ Each brawler will have its own Markdown file containing:
 - Draco
 - Kenji
 - Meeple
-
+- Nori
 ---
 
 # Ultra Legendary
